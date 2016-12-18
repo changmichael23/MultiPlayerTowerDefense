@@ -1,0 +1,5 @@
+Rajout des collisions avec la fonction collide (collision objet et mur)
+
+Rajout d'une fonction qui cible
+
+Rajout d'une hitbox
